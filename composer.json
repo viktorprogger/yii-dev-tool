@@ -24,7 +24,7 @@
         "symfony/filesystem": "^5.0",
         "symfony/finder": "^5.0",
         "symfony/polyfill-php73": "^1.13",
-        "symfony/process": "^5.0",
+        "symfony/process": "^5.1",
         "symfony/yaml": "^5.0",
         "yiisoft/arrays": "3.0.x-dev"
     },
