@@ -19,7 +19,7 @@
         "ext-openssl": "*",
         "cpliakas/git-wrapper": "^3.0",
         "nikic/php-parser": "^4.5",
-        "squizlabs/php_codesniffer": "^3.3",
+        "squizlabs/php_codesniffer": "^3.5",
         "symfony/console": "^5.0",
         "symfony/filesystem": "^5.0",
         "symfony/finder": "^5.0",
